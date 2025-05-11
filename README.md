@@ -43,7 +43,7 @@ Mais informações: [Site Oficial do GLPI](https://glpi-project.org/)
 
 ## 📬 Contato
 
-Para dúvidas ou sugestões, abra uma **issue** ou entre em contato via @acanis_majoris.
+Para dúvidas ou sugestões, abra uma **issue** ou entre em contato via discord: @acanis_majoris.
 
 
 
