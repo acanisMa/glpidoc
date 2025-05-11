@@ -41,28 +41,9 @@ Mais informações: [Site Oficial do GLPI](https://glpi-project.org/)
 
 ---
 
-## 🚀 Como Contribuir
-
-Contribuições são muito bem-vindas!  
-Siga as etapas abaixo:
-
-1. Faça um fork do projeto
-2. Crie uma branch (`git checkout -b feature/NomeDaFeature`)
-3. Commit suas mudanças (`git commit -m 'Adicionando uma nova seção'`)
-4. Push na branch (`git push origin feature/NomeDaFeature`)
-5. Abra um Pull Request
-
----
-
-## 📄 Licença
-
-Este repositório está licenciado sob a licença [MIT](LICENSE).
-
----
-
 ## 📬 Contato
 
-Para dúvidas ou sugestões, abra uma **issue** ou entre em contato via [email].
+Para dúvidas ou sugestões, abra uma **issue** ou entre em contato via @acanis_majoris.
 
 
 
