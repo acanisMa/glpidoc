@@ -41,29 +41,6 @@ More information: [Official GLPI Website](https://glpi-project.org/)
 
 ---
 
-## 🚀 How to Contribute
-
-Contributions are very welcome!  
-Follow these steps:
-
-1. Fork the project
-2. Create a new branch (`git checkout -b feature/FeatureName`)
-3. Commit your changes (`git commit -m 'Add a new section'`)
-4. Push to your branch (`git push origin feature/FeatureName`)
-5. Open a Pull Request
-
----
-
-## 📄 License
-
-This repository is licensed under the [MIT License](LICENSE).
-
----
-
 ## 📬 Contact
 
-For questions or suggestions, please open an **issue** or reach out via [email].
-
----
-
-Would you also like me to create a second version, more "formal" or "professional" depending on your audience (for example: internal corporate documentation or open-source community)? 🚀
+For questions or suggestions, please open an **issue** or reach out via discord @acanis_majoris.
